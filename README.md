@@ -33,14 +33,14 @@ Documentation of your results in an appropriate format, both links to files and 
 - image files (`.jpg`, `.png` or whatever else is appropriate)
 - move files (uploaded to youtube or vimeo due to github file size limits)
 - ... some other form
-I have included the process of making the analogue prints after the image generation is complete. The first image is the transparencies exposing on top of the film paper in the sun at innovation studio. The second and third are imagees of the final prints displayed for open studios. 
+I have included the process of making the analogue prints after the image generation is complete. I included a zip folder of pictures of the final prints and the process. The first print I made a home as a test. That one weirdly was my favorite in the end. It is in a picture frame with small plants I bought for the project and a small paper cutout of a man. The next are the ones I did at innovation studio and the final results!
 
 ## Technical Notes
 
 Any implementation details or notes we need to repeat your work. 
 - Does this code require other pip packages, software, etc?
 - Does it run on some other (non-datahub) platform? (CoLab, etc.)
-I really enjoyed the hotpot ai art maker. It was limited after awhile and did output the same kind of results after awhile. ALSO, innovation campus does not have the right kind of deep red light that is used in film dark rooms. Definitely if you want to do this find a darkroom that does so you aren't making your collages in the dark like I did. 
+I really enjoyed the hotpot ai art maker. It was limited after awhile and did output the same kind of results after awhile. ALSO, innovation campus does not have the right kind of deep red light that is used in film dark rooms. Definitely if you want to do this find a darkroom that does so you aren't making your collages in the dark like I did. Also use heavy glass to weigh down your prints~! Mine were actually plastic sheets in target frames I had at my house. They let in too much light so I didn't get the super crisp exposures on some prints!
 
 ## Reference
 
